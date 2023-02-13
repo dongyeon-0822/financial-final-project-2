@@ -5,7 +5,7 @@
 
 ## 1. 프로젝트 소개 🗒
 
-![스크린샷 2023-02-13 오후 5.24.43.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fc986667-5d14-4d33-ba85-ab18effb7a93/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-02-13_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_5.24.43.png)
+<img src="![스크린샷 2023-02-13 오후 5.24.43.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fc986667-5d14-4d33-ba85-ab18effb7a93/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-02-13_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_5.24.43.png)"  width="600" height="370">
 
 ***매매일지를 통해 나만의 투자 경험을 쌓아보세요*** 
 
@@ -50,8 +50,8 @@
 - Other Tools : **`GitLab`, `swagger`, `AWS`, `OAuth`, `notion`**
 
 ## 5. 아키텍처 📃
+<img src="![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1624bf09-aabf-49d0-a692-8a37ba342799/Untitled.png)" width="600" height="370">
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1624bf09-aabf-49d0-a692-8a37ba342799/Untitled.png)
 
 ## 6. API 명세서
 
@@ -59,8 +59,9 @@
 - Notion: [API 명세서 바로가기](https://www.notion.so/7a6e8c5f1ca245459829f1bbff9bb7f2)
 
 ## 7. ERD
+<img src="![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6dbc69b2-6d8a-45c8-8fa2-ecf30ef621c6/Untitled.png)" width="600" height="370">
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6dbc69b2-6d8a-45c8-8fa2-ecf30ef621c6/Untitled.png)
+
 
 ## 8. 외부 리소스 정보
 
